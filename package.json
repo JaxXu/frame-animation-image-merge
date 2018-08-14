@@ -1,0 +1,26 @@
+{
+  "name": "frame-animation-image-merge",
+  "version": "1.0.0",
+  "description": "帧动画图片合并工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaxxu/frame-animation-image-merge.git"
+  },
+  "keywords": [
+    "frame-animation",
+    "merge"
+  ],
+  "author": "jaxxu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaxxu/frame-animation-image-merge/issues"
+  },
+  "homepage": "https://github.com/jaxxu/frame-animation-image-merge#readme",
+  "dependencies": {
+    "images": "^3.0.1"
+  }
+}
